@@ -1,0 +1,6 @@
+@CareCenterApi_HostAddress = http://localhost:5105
+
+GET {{CareCenterApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
